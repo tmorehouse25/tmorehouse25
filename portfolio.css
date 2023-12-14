@@ -1,0 +1,10 @@
+ /* Carousel image sizes */
+        #hobbyCarousel .carousel-item img {
+            width: 100%; /* responsive width */
+            height: 500px; /* keep the height fixed height */
+            object-fit: cover; /* don't want the image to be distorted */
+        }
+        body {
+            background-color: #d0d0d0;
+          }
+          
